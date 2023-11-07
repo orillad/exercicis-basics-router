@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "brand": "Honda",
+        "model": "CBR600RR",
+        "displacement": "599cc",
+        "image": "https://powersports.honda.com/motorcycle/supersport/-/media/products/family/cbr600rr/trims/trim-main/cbr600rr/2023/2023-cbr600rr-grand_prix_red-650x380.png"
+    },
+    {
+        "id": 2,
+        "brand": "Yamaha",
+        "model": "YZF-R6",
+        "displacement": "599cc",
+        "image": "https://motoriwata.com/wp-content/uploads/2021/03/2022-Yamaha-YZF600R6RCOMP-EU-Tech_Black-600x600.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Kawasaki",
+        "model": "Ninja ZX-6R",
+        "displacement": "636cc",
+        "image": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/19ZX636G_201GN1DRS3CG_A.png"
+    },
+    {
+        "id": 4,
+        "brand": "Suzuki",
+        "model": "GSX-R750",
+        "displacement": "749cc",
+        "image": "https://s3.eu-west-1.amazonaws.com/cdn.motorbikemag.es/wp-content/uploads/2016/01/GSX-R750_3.jpg"
+    },
+    {
+        "id": 5,
+        "brand": "Ducati",
+        "model": "Panigale V4",
+        "displacement": "1,103cc",
+        "image": "https://images.ctfassets.net/x7j9qwvpvr5s/0dwquoG1mZ2utBJZhwOSc/24893ddf5da2f9d71f18cd618bd9d479/Panigale-V4-MY22-Model-Preview-1050x650-v06.png"
+    },
+    {
+        "id": 6,
+        "brand": "KTM",
+        "model": "Duke 390",
+        "displacement": "373cc",
+        "image": "https://motoracingburgos.net/693879-large_default/ktm-390-duke-2023-naked-a2.jpg"
+    },
+    {
+        "id": 7,
+        "brand": "BMW",
+        "model": "S1000RR",
+        "displacement": "999cc",
+        "image": "https://www.motofichas.com/images/phocagallery/BMW_Motorrad/s-1000-rr-2023/01-bmw-s-1000-rr-2023-estudio-blanco.jpg"
+    }
+]
